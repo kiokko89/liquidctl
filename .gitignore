@@ -8,3 +8,4 @@ liquidctl/_version.py
 .DS_Store
 .coverage
 .vscode/
+.venv/
